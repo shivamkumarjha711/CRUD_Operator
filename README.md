@@ -1,3 +1,6 @@
+
+![CRUD_Operator](https://github.com/shivamkumarjha711/CRUD_Operator/assets/125046297/ebe7f75f-4619-40a1-a5b0-b50fb3b22703)
+
 The CRED App is a lightweight, user-friendly, and secure personal note manager that empowers users to create, delete, and update their personal notes using headings and descriptions. Built with a tech stack comprising pure HTML, CSS, and JavaScript, the app ensures a seamless and efficient user experience while leveraging local storage for data persistence.
 
 ### User Interface and Interaction: 
